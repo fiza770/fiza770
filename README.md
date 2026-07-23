@@ -74,14 +74,12 @@ const Fiza = {
 ### Languages
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 
-### AI / ML & Data
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
+### Currently Learning
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
 
-### Dev Tools
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-
+### Development Tools
+![VSCode](https://skillicons.dev/icons?i=vscode)
 </div>
 
 ---
