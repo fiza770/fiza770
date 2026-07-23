@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7dd3fc&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Fiza+👋;Aspiring+AI+Engineer+🤖;Python+%26+AI%2FML+Developer+🐍;Scholarship+Hunter+🎓;From+Pakistan+to+the+World+🌍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7dd3fc&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Fiza+👋;Aspiring+AI+Engineer+🤖;Python+Learner+🐍;Scholarship+Hunter+🎓;From+Pakistan+to+the+World+🌍)](https://git.io/typing-svg)
 
 [![Open to Work](https://img.shields.io/badge/Open%20To-Scholarship%20%26%20Opportunities-7dd3fc?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/fiza770)
 [![Profile Views](https://komarev.com/ghpvc/?username=fiza770&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/fiza770)
@@ -17,7 +17,7 @@ const Fiza = {
   title:            "Aspiring AI Engineer 🤖",
   location:         "Rawalpindi, Pakistan 🇵🇰",
   goal:             "Fully Funded Scholarship for AI Degree Abroad 🎓",
-  stack:            ["Python", "AI/ML Basics", "GitHub", "VS Code"],
+  stack:            ["Python",  "GitHub", "VS Code"],
   launchedProjects: 5,
   certifications:   ["AI Basics Course ✅"],
   status:           "Learning Daily & Building Real Projects 💻",
