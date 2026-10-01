@@ -22,7 +22,7 @@
 | **Goal** | Fully Funded Scholarship for an AI Degree Abroad 🎓 |
 | **Stack** | Python, AI/ML Basics, GitHub, VS Code |
 | **Projects Launched** | 5 |
-| **Certifications** | AI Basics Course ✅ |
+| **Certifications** | Python (Kaggle) ✅, Elements of AI (University of Helsink) |
 | **Status** | Learning daily & building real projects 💻 |
 | **Open To** | Fully Funded Scholarships, Internships, Collaborations |
 
