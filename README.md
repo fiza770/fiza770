@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-| | |
+| Detail | Info |
 |---|---|
 | **Title** | Aspiring AI Engineer 🤖 |
 | **Location** | Rawalpindi, Pakistan 🇵🇰 |
